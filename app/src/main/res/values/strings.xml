@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2.5_test</string>
+    <string name="btn">Вход</string>
+    <string name="pass">pass</string>
+    <string name="log">log</string>
+    <string name="txt"> </string>
+</resources>
