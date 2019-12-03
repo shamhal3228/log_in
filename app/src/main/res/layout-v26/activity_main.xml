@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:hint="Логин" />
+        android:hint="@string/log" />
 
     <EditText
         android:id="@+id/pass"
